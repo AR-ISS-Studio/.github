@@ -6,7 +6,7 @@ We are a small, but growing studio that develops diverse games on Roblox. We str
 
 Our studio may not be the most perfect out there, but we always try to make sure that everyone involved in the creation of projects enjoys their time! A place where you can feel at home even when contributing to the most difficult projects.
 
-You can find our group here:(https://www.roblox.com/groups/5584960/Ariss-Studio)
+[Group Link](https://www.roblox.com/groups/5584960/Ariss-Studio)
 
 <!--
 
