@@ -1,5 +1,7 @@
-### **Hello! Welcome to //ARISS// Studio!**
-![9ba3f71aed20abd2dfd7a5820ae1d54b](https://github.com/user-attachments/assets/9a9fc86b-0ae1-4963-a5ec-67996a713afd)
+<div align="center">
+  <h1><b>Hello! Welcome to //ARISS// Studio!</b></h1>
+  <img src="https://github.com/user-attachments/assets/9a9fc86b-0ae1-4963-a5ec-67996a713afd"/>
+</div>
 
 We are a small, but growing studio that develops diverse games on Roblox. We strive to create enjoyable and quality experiences for our players.
 
